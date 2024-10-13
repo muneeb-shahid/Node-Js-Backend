@@ -1,0 +1,19 @@
+{
+  "name": "node-js-backend",
+  "version": "1.0.0",
+  "description": "a basic node js backend project ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Muneeb Shahid",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
